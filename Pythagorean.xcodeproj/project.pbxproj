@@ -1,0 +1,615 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9F33AA9225F8C7CA003AF2AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F33AA9125F8C7CA003AF2AB /* AppDelegate.swift */; };
+		9F33AA9425F8C7CA003AF2AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F33AA9325F8C7CA003AF2AB /* SceneDelegate.swift */; };
+		9F33AA9625F8C7CA003AF2AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F33AA9525F8C7CA003AF2AB /* ViewController.swift */; };
+		9F33AA9925F8C7CA003AF2AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F33AA9725F8C7CA003AF2AB /* Main.storyboard */; };
+		9F33AA9C25F8C7CA003AF2AB /* Pythagorean.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9F33AA9A25F8C7CA003AF2AB /* Pythagorean.xcdatamodeld */; };
+		9F33AA9E25F8C7CA003AF2AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F33AA9D25F8C7CA003AF2AB /* Assets.xcassets */; };
+		9F33AAA125F8C7CA003AF2AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F33AA9F25F8C7CA003AF2AB /* LaunchScreen.storyboard */; };
+		9F33AAAC25F8C7CB003AF2AB /* PythagoreanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F33AAAB25F8C7CB003AF2AB /* PythagoreanTests.swift */; };
+		9F33AAB725F8C7CB003AF2AB /* PythagoreanUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F33AAB625F8C7CB003AF2AB /* PythagoreanUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9F33AAA825F8C7CB003AF2AB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9F33AA8625F8C7CA003AF2AB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F33AA8D25F8C7CA003AF2AB;
+			remoteInfo = Pythagorean;
+		};
+		9F33AAB325F8C7CB003AF2AB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9F33AA8625F8C7CA003AF2AB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F33AA8D25F8C7CA003AF2AB;
+			remoteInfo = Pythagorean;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9F33AA8E25F8C7CA003AF2AB /* Pythagorean.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pythagorean.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F33AA9125F8C7CA003AF2AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9F33AA9325F8C7CA003AF2AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		9F33AA9525F8C7CA003AF2AB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9F33AA9825F8C7CA003AF2AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9F33AA9B25F8C7CA003AF2AB /* Pythagorean.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Pythagorean.xcdatamodel; sourceTree = "<group>"; };
+		9F33AA9D25F8C7CA003AF2AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9F33AAA025F8C7CA003AF2AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9F33AAA225F8C7CA003AF2AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F33AAA725F8C7CB003AF2AB /* PythagoreanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PythagoreanTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F33AAAB25F8C7CB003AF2AB /* PythagoreanTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PythagoreanTests.swift; sourceTree = "<group>"; };
+		9F33AAAD25F8C7CB003AF2AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F33AAB225F8C7CB003AF2AB /* PythagoreanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PythagoreanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F33AAB625F8C7CB003AF2AB /* PythagoreanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PythagoreanUITests.swift; sourceTree = "<group>"; };
+		9F33AAB825F8C7CB003AF2AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9F33AA8B25F8C7CA003AF2AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F33AAA425F8C7CB003AF2AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F33AAAF25F8C7CB003AF2AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9F33AA8525F8C7CA003AF2AB = {
+			isa = PBXGroup;
+			children = (
+				9F33AA9025F8C7CA003AF2AB /* Pythagorean */,
+				9F33AAAA25F8C7CB003AF2AB /* PythagoreanTests */,
+				9F33AAB525F8C7CB003AF2AB /* PythagoreanUITests */,
+				9F33AA8F25F8C7CA003AF2AB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9F33AA8F25F8C7CA003AF2AB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9F33AA8E25F8C7CA003AF2AB /* Pythagorean.app */,
+				9F33AAA725F8C7CB003AF2AB /* PythagoreanTests.xctest */,
+				9F33AAB225F8C7CB003AF2AB /* PythagoreanUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9F33AA9025F8C7CA003AF2AB /* Pythagorean */ = {
+			isa = PBXGroup;
+			children = (
+				9F33AA9125F8C7CA003AF2AB /* AppDelegate.swift */,
+				9F33AA9325F8C7CA003AF2AB /* SceneDelegate.swift */,
+				9F33AA9525F8C7CA003AF2AB /* ViewController.swift */,
+				9F33AA9725F8C7CA003AF2AB /* Main.storyboard */,
+				9F33AA9D25F8C7CA003AF2AB /* Assets.xcassets */,
+				9F33AA9F25F8C7CA003AF2AB /* LaunchScreen.storyboard */,
+				9F33AAA225F8C7CA003AF2AB /* Info.plist */,
+				9F33AA9A25F8C7CA003AF2AB /* Pythagorean.xcdatamodeld */,
+			);
+			path = Pythagorean;
+			sourceTree = "<group>";
+		};
+		9F33AAAA25F8C7CB003AF2AB /* PythagoreanTests */ = {
+			isa = PBXGroup;
+			children = (
+				9F33AAAB25F8C7CB003AF2AB /* PythagoreanTests.swift */,
+				9F33AAAD25F8C7CB003AF2AB /* Info.plist */,
+			);
+			path = PythagoreanTests;
+			sourceTree = "<group>";
+		};
+		9F33AAB525F8C7CB003AF2AB /* PythagoreanUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9F33AAB625F8C7CB003AF2AB /* PythagoreanUITests.swift */,
+				9F33AAB825F8C7CB003AF2AB /* Info.plist */,
+			);
+			path = PythagoreanUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9F33AA8D25F8C7CA003AF2AB /* Pythagorean */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F33AABB25F8C7CB003AF2AB /* Build configuration list for PBXNativeTarget "Pythagorean" */;
+			buildPhases = (
+				9F33AA8A25F8C7CA003AF2AB /* Sources */,
+				9F33AA8B25F8C7CA003AF2AB /* Frameworks */,
+				9F33AA8C25F8C7CA003AF2AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Pythagorean;
+			productName = Pythagorean;
+			productReference = 9F33AA8E25F8C7CA003AF2AB /* Pythagorean.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9F33AAA625F8C7CB003AF2AB /* PythagoreanTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F33AABE25F8C7CB003AF2AB /* Build configuration list for PBXNativeTarget "PythagoreanTests" */;
+			buildPhases = (
+				9F33AAA325F8C7CB003AF2AB /* Sources */,
+				9F33AAA425F8C7CB003AF2AB /* Frameworks */,
+				9F33AAA525F8C7CB003AF2AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9F33AAA925F8C7CB003AF2AB /* PBXTargetDependency */,
+			);
+			name = PythagoreanTests;
+			productName = PythagoreanTests;
+			productReference = 9F33AAA725F8C7CB003AF2AB /* PythagoreanTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9F33AAB125F8C7CB003AF2AB /* PythagoreanUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F33AAC125F8C7CB003AF2AB /* Build configuration list for PBXNativeTarget "PythagoreanUITests" */;
+			buildPhases = (
+				9F33AAAE25F8C7CB003AF2AB /* Sources */,
+				9F33AAAF25F8C7CB003AF2AB /* Frameworks */,
+				9F33AAB025F8C7CB003AF2AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9F33AAB425F8C7CB003AF2AB /* PBXTargetDependency */,
+			);
+			name = PythagoreanUITests;
+			productName = PythagoreanUITests;
+			productReference = 9F33AAB225F8C7CB003AF2AB /* PythagoreanUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9F33AA8625F8C7CA003AF2AB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					9F33AA8D25F8C7CA003AF2AB = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					9F33AAA625F8C7CB003AF2AB = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = 9F33AA8D25F8C7CA003AF2AB;
+					};
+					9F33AAB125F8C7CB003AF2AB = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = 9F33AA8D25F8C7CA003AF2AB;
+					};
+				};
+			};
+			buildConfigurationList = 9F33AA8925F8C7CA003AF2AB /* Build configuration list for PBXProject "Pythagorean" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9F33AA8525F8C7CA003AF2AB;
+			productRefGroup = 9F33AA8F25F8C7CA003AF2AB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9F33AA8D25F8C7CA003AF2AB /* Pythagorean */,
+				9F33AAA625F8C7CB003AF2AB /* PythagoreanTests */,
+				9F33AAB125F8C7CB003AF2AB /* PythagoreanUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9F33AA8C25F8C7CA003AF2AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F33AAA125F8C7CA003AF2AB /* LaunchScreen.storyboard in Resources */,
+				9F33AA9E25F8C7CA003AF2AB /* Assets.xcassets in Resources */,
+				9F33AA9925F8C7CA003AF2AB /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F33AAA525F8C7CB003AF2AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F33AAB025F8C7CB003AF2AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9F33AA8A25F8C7CA003AF2AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F33AA9625F8C7CA003AF2AB /* ViewController.swift in Sources */,
+				9F33AA9225F8C7CA003AF2AB /* AppDelegate.swift in Sources */,
+				9F33AA9C25F8C7CA003AF2AB /* Pythagorean.xcdatamodeld in Sources */,
+				9F33AA9425F8C7CA003AF2AB /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F33AAA325F8C7CB003AF2AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F33AAAC25F8C7CB003AF2AB /* PythagoreanTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F33AAAE25F8C7CB003AF2AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F33AAB725F8C7CB003AF2AB /* PythagoreanUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9F33AAA925F8C7CB003AF2AB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F33AA8D25F8C7CA003AF2AB /* Pythagorean */;
+			targetProxy = 9F33AAA825F8C7CB003AF2AB /* PBXContainerItemProxy */;
+		};
+		9F33AAB425F8C7CB003AF2AB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F33AA8D25F8C7CA003AF2AB /* Pythagorean */;
+			targetProxy = 9F33AAB325F8C7CB003AF2AB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9F33AA9725F8C7CA003AF2AB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9F33AA9825F8C7CA003AF2AB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		9F33AA9F25F8C7CA003AF2AB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9F33AAA025F8C7CA003AF2AB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9F33AAB925F8C7CB003AF2AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9F33AABA25F8C7CB003AF2AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9F33AABC25F8C7CB003AF2AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N5MRD9DJX4;
+				INFOPLIST_FILE = Pythagorean/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iappetos.Pythagorean;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9F33AABD25F8C7CB003AF2AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N5MRD9DJX4;
+				INFOPLIST_FILE = Pythagorean/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iappetos.Pythagorean;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9F33AABF25F8C7CB003AF2AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N5MRD9DJX4;
+				INFOPLIST_FILE = PythagoreanTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iappetos.PythagoreanTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pythagorean.app/Pythagorean";
+			};
+			name = Debug;
+		};
+		9F33AAC025F8C7CB003AF2AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N5MRD9DJX4;
+				INFOPLIST_FILE = PythagoreanTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iappetos.PythagoreanTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Pythagorean.app/Pythagorean";
+			};
+			name = Release;
+		};
+		9F33AAC225F8C7CB003AF2AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N5MRD9DJX4;
+				INFOPLIST_FILE = PythagoreanUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iappetos.PythagoreanUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Pythagorean;
+			};
+			name = Debug;
+		};
+		9F33AAC325F8C7CB003AF2AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N5MRD9DJX4;
+				INFOPLIST_FILE = PythagoreanUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iappetos.PythagoreanUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Pythagorean;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9F33AA8925F8C7CA003AF2AB /* Build configuration list for PBXProject "Pythagorean" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F33AAB925F8C7CB003AF2AB /* Debug */,
+				9F33AABA25F8C7CB003AF2AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F33AABB25F8C7CB003AF2AB /* Build configuration list for PBXNativeTarget "Pythagorean" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F33AABC25F8C7CB003AF2AB /* Debug */,
+				9F33AABD25F8C7CB003AF2AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F33AABE25F8C7CB003AF2AB /* Build configuration list for PBXNativeTarget "PythagoreanTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F33AABF25F8C7CB003AF2AB /* Debug */,
+				9F33AAC025F8C7CB003AF2AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F33AAC125F8C7CB003AF2AB /* Build configuration list for PBXNativeTarget "PythagoreanUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F33AAC225F8C7CB003AF2AB /* Debug */,
+				9F33AAC325F8C7CB003AF2AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		9F33AA9A25F8C7CA003AF2AB /* Pythagorean.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				9F33AA9B25F8C7CA003AF2AB /* Pythagorean.xcdatamodel */,
+			);
+			currentVersion = 9F33AA9B25F8C7CA003AF2AB /* Pythagorean.xcdatamodel */;
+			path = Pythagorean.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 9F33AA8625F8C7CA003AF2AB /* Project object */;
+}
