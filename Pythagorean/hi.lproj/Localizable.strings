@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "मैं कहाँ गलत हो गया?";
+"question2" = "मैंने क्या अच्छा किया?";
+"question3" = "मुझे क्या करना चाहिए था जो मैंने नहीं किया?";
+"attentionAlert" = "ध्यान दें !!!";
+"dateOrderAlert" = "कृपया तारीखों को उल्टा करें";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "कृपया क्षेत्र में पाठ लिखें।";
+"advantageKiosk1a" = "कुछ मुझे करना चाहिए था, जो मैंने नहीं किया:";
+"advantageKiosk1b" = "हमेशा के लिए विज्ञापन निकालें !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... जैसा कि पाइथागोरस पूछेगा।";
+"contactUs" = "हमसे संपर्क करें";
+"rateThisApp" = "रेट ऐप";
+"upgrade" = "अपग्रेड";
+"restorePurchase" = "पुनर्स्थापना";
+"cancelPopUp" = "रद्द करें";
+"connectionRequired" = "कनेक्शन आवश्यक !!!";
+"onlyFor" = "only for";
+"waitThePrices" = "कृपया, लोड होने के लिए प्रतीक्षा करें।";
+"logoLine1" = "कुछ अच्छा जो मैंने किया है";
+"logoLine2" = "हमारे ऐप का उपयोग करने के लिए धन्यवाद !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ'";
+"logoLine4" = "... जैसा कि पाइथागोरस पूछेगा।";
+"sa1ve" = "रजिस्टर";
+"segTit0" = "आज";
+"segTit1" = "सप्ताह";
+"segTit2" = "महीना";
+"segTit3" = "क्वार्टर";
+"segTit4" = "वर्ष";
+"segTit5" = "मैन्युअल रूप से";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+

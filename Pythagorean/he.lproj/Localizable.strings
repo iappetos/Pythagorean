@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "איפה טעיתי?";
+"question2" = "איזה טוב עשיתי?";
+"question3" = "מה הייתי צריך לעשות שלא עשיתי?";
+"attentionAlert" = "שים לב !!!";
+"dateOrderAlert" = "אנא הפוך תאריכים";
+"okInAlert" = "בסדר";
+"emptyFieldAlert" = "אנא כתוב טקסט בשדה.";
+"advantageKiosk1a" = "משהו שהייתי צריך לעשות, שלא עשיתי:";
+"advantageKiosk1b" = "הסר מודעות לנצח !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... כפי ששואל פיתגורס.";
+"contactUs" = "צור איתנו קשר";
+"rateThisApp" = "דרג אפליקציה";
+"upgrade" = "שדרג";
+"restorePurchase" = "שחזר";
+"cancelPopUp" = "ביטול";
+"connectionRequired" = "חיבור נדרש !!!";
+"onlyFor" = "רק עבור";
+"waitThePrices" = "אנא המתן לטעינת המחירים.";
+"logoLine1" = "משהו טוב שעשיתי";
+"logoLine2" = "תודה שהשתמשת באפליקציה שלנו !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... כפי ששואל פיתגורס.";
+"sa1ve" = "להירשם";
+"segTit0" = "היום";
+"segTit1" = "שבוע";
+"segTit2" = "חודש";
+"segTit3" = "רבעון";
+"segTit4" = "שנה";
+"segTit5" = "באופן ידני";
+
+
+
+
+
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+
+
+

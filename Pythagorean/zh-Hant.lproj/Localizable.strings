@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "我哪裡出錯了？";
+"question2" = "我做了什麼";
+"question3" = "我應該做些我沒有做的事情";
+"attentionAlert" = "注意!!!";
+"dateOrderAlert" = "請取消日期";
+"okInAlert" = "確定";
+"emptyFieldAlert" = "請在字段中輸入文本。";
+"advantageKiosk1a" = "我應該做的事情，我沒有做的事情：";
+"advantageKiosk1b" = "永遠刪除廣告！！！";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "...如畢達哥拉斯所問。";
+"contactUs" = "聯繫我們";
+"rateThisApp" = "費率應用p";
+"upgrade" = "升級";
+"restorePurchase" = "還原";
+"cancelPopUp" = "取消";
+"connectionRequired" = "需要連接!!!";
+"onlyFor" = "僅用於";
+"waitThePrices" = "請等待價格被加載。";
+"logoLine1" = "我做得很好";
+"logoLine2" = "感謝您使用我們的應用程序";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ'";
+"logoLine4" = "...如畢達哥拉斯所問";
+"sa1ve" = "登記";
+"segTit0" = "今天";
+"segTit1" = "星期";
+"segTit2" = "月";
+"segTit3" = "四分之一";
+"segTit4" = "年";
+"segTit5" = "手動地";
+
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+
+
+

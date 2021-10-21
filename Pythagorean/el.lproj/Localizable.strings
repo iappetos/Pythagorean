@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "Που έσφαλά;";
+"question2" = "Τι καλό έκανα;";
+"question3" = "Τι έπρεπε να κάνω και δεν το έκανα;";
+"attentionAlert" = "Προσοχή!!!";
+"dateOrderAlert" = "Παρακαλω αντιστρέψτε τις ημερομηνίες";
+"okInAlert" = "Εντάξει";
+"emptyFieldAlert" = "Παρακαλώ, συμπληρώστε το πεδίο.";
+"advantageKiosk1a" = "Τι έπρεπε να κάνω και δεν το έκανα:";
+"advantageKiosk1b" = "Απαλλαγή από διαφημίσεις για πάντα!!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "...όπως θα ρωτούσε ο Πυθαγόρας.";
+"contactUs" = "Επικοινωνία";
+"rateThisApp" = "Αξιολόγηση";
+"upgrade" = "Αναβάθμιση";
+"restorePurchase" = "Επαναφορά";
+"cancelPopUp" = "Ακύρωση";
+"connectionRequired" = "Απαιτείται σύνδεση!!!";
+"onlyFor" = "μόνο για";
+"waitThePrices" = "Παρακαλώ, περιμένετε να ενημερωθούν οι τιμές";
+"logoLine1" = "Κάτι καλό που έκανα";
+"logoLine2" = "Σας ευχαριστούμε που χρησιμοποιείτε την εφαρμογή μας !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ'";
+"logoLine4" = "...όπως θα ρωτούσε ο Πυθαγόρας.";
+"sa1ve" = "Καταχωρηση";
+"segTit0" = "Σήμερα";
+"segTit1" = "Εβδομάδα";
+"segTit2" = "Μήνας";
+"segTit3" = "Τρίμηνο";
+"segTit4" = "Έτος";
+"segTit5" = "Επιλογή";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------

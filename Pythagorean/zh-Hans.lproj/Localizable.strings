@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+"question1" = "我哪里出错了";
+"question2" = "我做了什么?";
+"question3" = "我应该做些什么，但我没有做？";
+"attentionAlert" = "注意!!!";
+"dateOrderAlert" = "请取消日期";
+"okInAlert" = "确定";
+"emptyFieldAlert" = "请在字段中输入文本";
+"advantageKiosk1a" = "我应该做的，我没有做的事情:";
+"advantageKiosk1b" = "永远删除广告！！！";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "...如毕达哥拉斯所问。";
+"contactUs" = "联系我们";
+"rateThisApp" = "费率应用";
+"upgrade" = "升级";
+"restorePurchase" = "还原";
+"cancelPopUp" = "取消";
+"connectionRequired" = "需要连接!!!";
+"onlyFor" = "仅用于";
+"waitThePrices" = "请等待价格被加载。";
+"logoLine1" = "我做得很好";
+"logoLine2" = "感谢您使用我们的应用程序！";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ'";
+"logoLine4" = "...如毕达哥拉斯所问。";
+"sa1ve" = "保存";
+"segTit0" = "今天";
+"segTit1" = "周";
+"segTit2" = "月份";
+"segTit3" = "季度";
+"segTit4" = "年份";
+"segTit5" = "手动地";
+
+
+
+
+
+
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+
+
+
+
+
+
+

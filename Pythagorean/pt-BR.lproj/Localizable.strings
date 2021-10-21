@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "Onde foi que eu errei?";
+"question2" = "O que eu fiz de bom?";
+"question3" = "O que deveria ter feito e não fiz?";
+"entionAlert "=" Atenção !!! ";
+"dateOrderAlert" = "Inverta as datas";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "Por favor, escreva um texto no campo.";
+"advantageKiosk1a" = "Algo que deveria ter feito, mas não fiz:";
+"advantageKiosk1b" = "Remova os anúncios para sempre !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... como Pythagoras perguntaria.";
+"contactUs" = "Entre em contato";
+"rateThisApp" = "Avaliar aplicativo";
+"upgrade" = "Upgrade";
+"restorePurchase" = "Restaurar";
+"cancelPopUp" = "Cancelar";
+"connectionRequired" = "Conexão necessária !!!";
+"onlyFor" = "apenas para";
+"waitThePrices" = "Por favor, aguarde o carregamento dos preços.";
+"logoLine1" = "Algo bom que fiz";
+"logoLine2" = "Obrigado por usar nosso aplicativo !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... como Pitágoras perguntaria.";
+"sa1ve" = "Registrar";
+"segTit0" = "Hoje";
+"segTit1" = "Semana";
+"segTit2" = "Mês";
+"segTit3" = "Trimestre";
+"segTit4" = "Ano";
+"segTit5" = "Manualmente";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+
+
+
+"question1" = "Onde foi que eu errei?";
+"question2" = "O que eu fiz de bom?";
+"question3" = "O que deveria ter feito e não fiz?";
+"entionAlert "=" Atenção !!! ";
+"dateOrderAlert" = "Inverta as datas";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "Por favor, escreva um texto no campo.";
+"AdvantKiosk1a" = "Algo que deveria ter feito, mas não fiz:";
+"AdvantKiosk1b" = "Remova os anúncios para sempre !!!";
+"AdvantKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"AdvantKiosk2b" = "... como Pythagoras perguntaria.";
+"contactUs" = "Entre em contato";
+"rateThisApp" = "Avaliar aplicativo";
+"upgrade" = "Upgrade";
+"restorePurchase" = "Restaurar";
+"cancelPopUp" = "Cancelar";
+"connectionRequired" = "Conexão necessária !!!";
+"onlyFor" = "apenas para";
+"waitThePrices" = "Por favor, aguarde o carregamento dos preços.";
+"logoLine1" = "Algo bom que fiz";
+"logoLine2" = "Obrigado por usar nosso aplicativo !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... como Pitágoras perguntaria.";

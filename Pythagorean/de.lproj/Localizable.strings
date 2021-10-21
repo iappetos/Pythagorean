@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "Wo bin ich falsch gelaufen?";
+"question2" = "Was habe ich getan?";
+"question3" = "Was hätte ich tun sollen, was ich nicht getan habe?";
+"Aufmerksamkeitsalarm" = "Achtung !!!";
+"dateOrderAlert" = "Bitte Daten umkehren";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "Bitte schreiben Sie Text in das Feld.";
+"advantageKiosk1a" =" Etwas, das ich hätte tun sollen, das ich nicht getan habe: ";
+"advantageKiosk1b" = " Anzeigen für immer entfernen !!! ";
+"advantageKiosk2a" = " 'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ' ";
+"advantageKiosk2b" = " ... wie Pythagoras fragen würde. ";
+"contactUs" = "Kontakt";
+"rateThisApp" = "Rate App";
+"upgrade" = "Upgrade";
+"restorePurchase" = "Wiederherstellen";
+"cancelPopUp" = "Abbrechen";
+"connectionRequired" = "Verbindung erforderlich !!!";
+"onlyFor" = "nur für";
+"waitThePrices" = "Bitte warten Sie, bis die Preise geladen sind.";
+"logoLine1" = "Ich habe etwas Gutes getan";
+"logoLine2" = "Vielen Dank, dass Sie unsere App verwenden !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... wie Pythagoras fragen würde.";
+"sa1ve" = "Register";
+"segTit0" = "Heute";
+"segTit1" = "Woche";
+"segTit2" = "Monat";
+"segTit3" = "Quartal";
+"segTit4" = "Jahr";
+"segTit5" = "Manuell";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------

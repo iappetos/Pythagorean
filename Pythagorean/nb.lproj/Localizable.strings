@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "Hvor gikk jeg galt?";
+"question2" = "Hva bra gjorde jeg?";
+"question3" = "Hva skulle jeg ha gjort som jeg ikke gjorde?";
+"attentionAlert" = "Oppmerksomhet !!!";
+"dateOrderAlert" = "Vend datoene om";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "Vennligst skriv tekst i feltet.";
+"advantageKiosk1a" = "Noe jeg burde ha gjort, som jeg ikke gjorde:";
+"advantageKiosk1b" = "Fjern annonser for alltid !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... som Pythagoras vil spørre.";
+"contactUs" = "Kontakt oss";
+"rateThisApp" = "Vurder app";
+"upgrade" = "Oppgradering";
+"restorePurchase" = "Gjenopprett";
+"cancelPopUp" = "Avbryt";
+"connectionRequired" = "Tilkobling påkrevd !!!";
+"onlyFor" = "bare for";
+"waitThePrices" = "Vennligst vent på at prisene skal lastes.";
+"logoLine1" = "Noe godt jeg har gjort";
+"logoLine2" = "Takk for at du bruker appen vår !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... som Pythagoras vil spørre.";
+"sa1ve" = "Registrer";
+"segTit0" = "I dag";
+"segTit1" = "Uke";
+"segTit2" = "Måned";
+"segTit3" = "Kvartal";
+"segTit4" = "År";
+"segTit5" = "Manuelt";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+
+
+
+
+
+
+"question1" = "Hvor gikk jeg galt?";
+"question2" = "Hva bra gjorde jeg?";
+"question3" = "Hva skulle jeg ha gjort som jeg ikke gjorde?";
+"attentionAlert" = "Oppmerksomhet !!!";
+"dateOrderAlert" = "Vend datoene om";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "Vennligst skriv tekst i feltet.";
+"advantageKiosk1a" = "Noe jeg burde ha gjort, som jeg ikke gjorde:";
+"advantageKiosk1b" = "Fjern annonser for alltid !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... som Pythagoras vil spørre.";
+"contactUs" = "Kontakt oss";
+"rateThisApp" = "Vurder app";
+"upgrade" = "Oppgradering";
+"restorePurchase" = "Gjenopprett";
+"cancelPopUp" = "Avbryt";
+"connectionRequired" = "Tilkobling påkrevd !!!";
+"onlyFor" = "bare for";
+"waitThePrices" = "Vennligst vent på at prisene skal lastes.";
+"logoLine1" = "Noe godt jeg har gjort";
+"logoLine2" = "Takk for at du bruker appen vår !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... som Pythagoras vil spørre.";

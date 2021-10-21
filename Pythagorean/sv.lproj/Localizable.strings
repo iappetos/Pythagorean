@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "Var gjorde jag fel?";
+"question2" = "Vilket nytta gjorde jag?";
+"question3" = "Vad ska jag ha gjort som jag inte gjorde?";
+"attentionAlert" = "Uppmärksamhet !!!";
+"dateOrderAlert" = "Omvänd datum";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "Skriv text i fältet.";
+"advantageKiosk1a" = "Något jag borde ha gjort, som jag inte gjorde:";
+"advantageKiosk1b" = "Ta bort annonser för alltid !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... som Pythagoras skulle fråga.";
+"contactUs" = "Kontakta oss";
+"rateThisApp" = "Betygsätt app";
+"upgrade" = "Uppgradera";
+"restorePurchase" = "Återställ";
+"cancelPopUp" = "Avbryt";
+"connectionRequired" = "Anslutning krävs !!!";
+"onlyFor" = "endast för";
+"waitThePrices" = "Vänta tills priserna laddas.";
+"logoLine1" = "Något bra jag har gjort";
+"logoLine2" = "Tack för att du använder vår app !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... som Pythagoras skulle fråga.";
+"sa1ve" = "Registrera";
+"segTit0" = "Idag";
+"segTit1" = "Vecka";
+"segTit2" = "Månad";
+"segTit3" = "Kvartal";
+"segTit4" = "År";
+"segTit5" = "Manuellt";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+

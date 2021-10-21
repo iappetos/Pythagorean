@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+
+"question1" = "どこがうまくいかなかったのですか？";
+"question2" = "私は何をしましたか？";
+"question3" = "しなかったのに何をすべきだったのか？";
+"attentionAlert" = "注意!!!";
+"dateOrderAlert" = "日付を逆にしてください";
+"okInAlert" = "ok";
+"emptyFieldAlert" = "フィールドにテキストを入力してください。";
+"advantageKiosk1a" = "やるべきだった、やらなかったこと：";
+"advantageKiosk1b" = "広告を永久に削除!!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "...ピタゴラスが尋ねるように。";
+"contactUs" = "お問い合わせ";
+"rateThisApp" = "評価アプリ";
+"upgrade" = "アップグレード";
+"restorePurchase" = "復元";
+"cancelPopUp" = "キャンセル";
+"connectionRequired" = "接続が必要です!!!";
+"onlyFor" = "のみ";
+"waitThePrices" = "価格が読み込まれるまでお待ちください。";
+"logoLine1" = "私がやったことは何か良いことです";
+"logoLine2" = "アプリをご利用いただきありがとうございます!!!";
+"logoLine3" = "'ΤΙ Δ'ΕΡΕΞΑ'";
+"logoLine4" = "...ピタゴラスが尋ねるように。";
+"sa1ve" = "保存";
+"segTit0" = "今日";
+"segTit1" = "週";
+"segTit2" = "月";
+"segTit3" = "四半期";
+"segTit4" = "年";
+"segTit5" = "手動で";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+

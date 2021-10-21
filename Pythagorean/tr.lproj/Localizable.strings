@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "Nerede yanlış yaptım?";
+"question2" = "Ne kadar iyi yaptım?";
+"question3" = "Yapmadığım ne yapmalıydım?";
+"careAlert" = "Dikkat !!!";
+"dateOrderAlert" = "Lütfen tarihleri tersine çevirin";
+"okInAlert" = "tamam";
+"emptyFieldAlert" = "Lütfen alana metin yazın.";
+"advantageKiosk1a" = "Yapmamam gereken ve yapmadığım bir şey:";
+"advantageKiosk1b" = "Reklamları sonsuza dek kaldırın !!!";
+"avantajKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... Pisagor'un isteyeceği gibi.";
+"contactUs" = "Bize Ulaşın";
+"rateThisApp" = "Uygulamayı Değerlendir";
+"upgrade" = "Yükselt";
+"restorePurchase" = "Geri Yükle";
+"cancelPopUp" = "İptal";
+"connectionRequired" = "Bağlantı Gerekli !!!";
+"onlyFor" = "yalnızca için";
+"waitThePrices" = "Lütfen fiyatların yüklenmesini bekleyin.";
+"logoLine1" = "Yaptığım iyi bir şey";
+"logoLine2" = "Uygulamamızı kullandığınız için teşekkür ederiz !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... Pisagor'un isteyeceği gibi.";
+"sa1ve" = "Kaydol";
+"segTit0" = "Bugün";
+"segTit1" = "Hafta";
+"segTit2" = "Ay";
+"segTit3" = "Çeyrek";
+"segTit4" = "Yıl";
+"segTit5" = "Manuel";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+
+
+

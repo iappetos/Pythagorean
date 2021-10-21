@@ -1,0 +1,99 @@
+
+/* Class = "UIBarButtonItem"; title = "List"; ObjectID = "1gk-7h-s7B"; */
+"1gk-7h-s7B.title" = "Lista";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "1v5-O9-7Jr"; */
+"1v5-O9-7Jr.normalTitle" = "Zapisz";
+
+/* Class = "UILabel"; text = "...as Pythagoras would say."; ObjectID = "6nX-47-m1b"; */
+"6nX-47-m1b.text" = "... jak powiedziałby Pitagoras.";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "8l3-xv-lcQ"; */
+"8l3-xv-lcQ.text" = "Data";
+
+/* Class = "UILabel"; text = "Something I had to do, that I didn't do it:"; ObjectID = "Aif-Bc-mcj"; */
+"Aif-Bc-mcj.text" = "Coś, co musiałem zrobić, czego nie zrobiłem:";
+
+/* Class = "UIButton"; normalTitle = "Restore"; ObjectID = "EIa-bz-bMS"; */
+"EIa-bz-bMS.normalTitle" = "Przywróć";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "El0-xQ-rsl"; */
+"El0-xQ-rsl.normalTitle" = "Anuluj";
+
+/* Class = "UILabel"; text = "Connection required!!!"; ObjectID = "GeG-ZX-xyp"; */
+"GeG-ZX-xyp.text" = "Wymagane połączenie !!!";
+
+/* Class = "UISegmentedControl"; Gx2-ht-B9H.segmentTitles[0] = "All"; ObjectID = "Gx2-ht-B9H"; */
+"Gx2-ht-B9H.segmentTitles[0]" = "Wszystkie";
+
+/* Class = "UISegmentedControl"; Gx2-ht-B9H.segmentTitles[1] = "1"; ObjectID = "Gx2-ht-B9H"; */
+"Gx2-ht-B9H.segmentTitles[1]" = "1";
+
+/* Class = "UISegmentedControl"; Gx2-ht-B9H.segmentTitles[2] = "2"; ObjectID = "Gx2-ht-B9H"; */
+"Gx2-ht-B9H.segmentTitles[2]" = "2";
+
+/* Class = "UISegmentedControl"; Gx2-ht-B9H.segmentTitles[3] = "3"; ObjectID = "Gx2-ht-B9H"; */
+"Gx2-ht-B9H.segmentTitles[3]" = "3";
+
+/* Class = "UIButton"; normalTitle = "Rate App"; ObjectID = "Jri-HJ-oM5"; */
+"Jri-HJ-oM5.normalTitle" = "Oceń aplikację";
+
+/* Class = "UIButton"; normalTitle = "What did I do bad, that I shouldn't do?"; ObjectID = "LqU-qC-c9d"; */
+"LqU-qC-c9d.normalTitle" = "What did I do bad, that I shouldn't do?";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "Sot-2e-7uW"; */
+"Sot-2e-7uW.normalTitle" = "Uaktualnij";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "Wlr-gk-oQR"; */
+"Wlr-gk-oQR.normalTitle" = "Skontaktuj się z nami";
+
+/* Class = "UILabel"; text = "Go Ads Free for ever!!!"; ObjectID = "XZk-a4-caz"; */
+"XZk-a4-caz.text" = "Go Ads Free for ever!!!";
+
+/* Class = "UIBarButtonItem"; title = "Ads free"; ObjectID = "ayX-n9-8s4"; */
+"ayX-n9-8s4.title" = "Ads free";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dpp-cj-AmX"; */
+"dpp-cj-AmX.text" = "0";
+
+/* Class = "UILabel"; text = "\"ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ\""; ObjectID = "fja-a1-HJv"; */
+"fja-a1-HJv.text" = "\"ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ\"";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j9W-6s-C7y"; */
+"j9W-6s-C7y.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "mVU-7E-h6B"; */
+"mVU-7E-h6B.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "mc8-UN-FxV"; */
+"mc8-UN-FxV.normalTitle" = "Anuluj";
+
+/* Class = "UIButton"; normalTitle = "Store"; ObjectID = "mmH-Zn-rcu"; */
+"mmH-Zn-rcu.normalTitle" = "Sklep";
+
+/* Class = "UINavigationItem"; title = "Pythagorean"; ObjectID = "n3r-53-qBx"; */
+"n3r-53-qBx.title" = "Pythagorean";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "yok-dl-2gu"; */
+"yok-dl-2gu.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "zpW-Xh-zrN"; */
+"zpW-Xh-zrN.title" = " ";
+
+/* Class = "UISegmentedControl"; zt5-jP-VGj.segmentTitles[0] = "Today"; ObjectID = "zt5-jP-VGj"; */
+"zt5-jP-VGj.segmentTitles[0]" = "Dzisiaj";
+
+/* Class = "UISegmentedControl"; zt5-jP-VGj.segmentTitles[1] = "Week"; ObjectID = "zt5-jP-VGj"; */
+"zt5-jP-VGj.segmentTitles[1]" = "Tydzień";
+
+/* Class = "UISegmentedControl"; zt5-jP-VGj.segmentTitles[2] = "Month"; ObjectID = "zt5-jP-VGj"; */
+"zt5-jP-VGj.segmentTitles[2]" = "Miesiąc";
+
+/* Class = "UISegmentedControl"; zt5-jP-VGj.segmentTitles[3] = "Quarter"; ObjectID = "zt5-jP-VGj"; */
+"zt5-jP-VGj.segmentTitles[3]" = "Kwartał";
+
+/* Class = "UISegmentedControl"; zt5-jP-VGj.segmentTitles[4] = "Year"; ObjectID = "zt5-jP-VGj"; */
+"zt5-jP-VGj.segmentTitles[4]" = "Rok";
+
+/* Class = "UISegmentedControl"; zt5-jP-VGj.segmentTitles[5] = "Manually"; ObjectID = "zt5-jP-VGj"; */
+"zt5-jP-VGj.segmentTitles[5]" = "Ręcznie";

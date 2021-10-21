@@ -3,10 +3,13 @@
 //  Pythagorean
 //
 //  Created by Ioannis on 10/3/21.
-//
+//AdMob AppID:ca-app-pub-7727480235361635~2407430434
+//AdMod BannerAdUnitID: ca-app-pub-7727480235361635/7085042041
+//AdMob InterstitialID: ca-app-pub-7727480235361635/2713362823
 
 import UIKit
 import CoreData
+import GoogleMobileAds
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,8 +18,30 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        //GoogleAds-->
+            NotificationCenter.default.addObserver(self, selector: #selector(onUbiquitousKeyValueStoreDidChangeExternally), name: NSUbiquitousKeyValueStore.didChangeExternallyNotification, object: NSUbiquitousKeyValueStore.default)
+            
+            NSUbiquitousKeyValueStore.default.synchronize()
+            
+            GADMobileAds.sharedInstance().start(completionHandler: nil)
+        //GoogleAds<--
         return true
     }
+    
+    
+    @ objc func onUbiquitousKeyValueStoreDidChangeExternally(notification: Notification) {
+        let changeReason = notification.userInfo![NSUbiquitousKeyValueStoreChangeReasonKey] as! Int
+        switch changeReason {
+            case NSUbiquitousKeyValueStoreInitialSyncChange,
+                 NSUbiquitousKeyValueStoreServerChange,
+                 NSUbiquitousKeyValueStoreAccountChange:
+             //  let productDelivery = ProductDelivery()
+               ProductDelivery.updateFromiCloud()
+        default: break
+         
+           //Todo: ?????
+        }
+    }//obg
 
     // MARK: UISceneSession Lifecycle
 

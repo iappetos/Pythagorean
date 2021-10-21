@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "Где я ошибся?";
+"question2" = "Что хорошего я сделал?";
+"question3" = "Что я должен был сделать, чего не сделал?";
+"attentionAlert" = "Внимание !!!";
+"dateOrderAlert" = "Поменяйте даты местами";
+"okInAlert" = "ок";
+"emptyFieldAlert" = "Напишите текст в поле.";
+"advantageKiosk1a" = "То, что я должен был сделать, чего я не делал:";
+"advantageKiosk1b" = "Убрать рекламу навсегда !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = "... как бы спросил Пифагор.";
+"contactUs" = "Свяжитесь с нами";
+"rateThisApp" = "Оценить приложение";
+"upgrade" = "Обновить";
+"restorePurchase" = "Восстановить";
+"cancelPopUp" = "Отменить";
+"connectionRequired" = "Требуется подключение !!!";
+"onlyFor" = "только для";
+"waitThePrices" = "Подождите, пока загрузятся цены.";
+"logoLine1" = "Я сделал кое-что хорошее";
+"logoLine2" = "Спасибо за использование нашего приложения !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ '";
+"logoLine4" = "... как бы спросил Пифагор.";
+"sa1ve" = "Зарегистрироваться";
+"segTit0" = "Сегодня";
+"segTit1" = "Неделя";
+"segTit2" = "Месяц";
+"segTit3" = "Квартал";
+"segTit4" = "Год";
+"segTit5" = "Вручную";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------

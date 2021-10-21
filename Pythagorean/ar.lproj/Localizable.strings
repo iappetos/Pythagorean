@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Pythagorean
+
+  Created by Ioannis on 31/3/21.
+  
+*/
+
+//Main
+"question1" = "أين أخطأت؟";
+"question2" = "ما الجيد الذي فعلته؟";
+"question3" = "ما الذي كان علي فعله ولم أفعله؟";
+"attentionAlert" = "انتباه!";
+"dateOrderAlert" = "يرجى عكس التواريخ";
+"okInAlert" = "موافق";
+"advantageKiosk1a" = "شيء كان يجب علي فعله ولم أفعله:";
+"advantageKiosk1b" = "إزالة الإعلانات إلى الأبد !!!";
+"advantageKiosk2a" = "'ΤΙ ΔΕ ΜΟΙ ΔΕΟΝ ΟΥΚ ΕΤΕΛΕΣΘΗ'";
+"advantageKiosk2b" = ".كما سيسأل فيثاغورس.";
+"contactUs" = "اتصل بنا";
+"rateThisApp" = "معدل التطبيق";
+"upgrade" = "ترقية";
+"restorePurchase" = "استعادة";
+"cancelPopUp" = "إلغاء";
+"connectionRequired" = "الاتصال مطلوب !!!";
+"onlyFor" = "فقط لـ";
+"waitThePrices" = "من فضلك ، انتظر حتى يتم تحميل الأسعار.";
+"logoLine1" = "شيء جيد قمت به";
+"logoLine2" = "Tشكرًا لك على استخدام تطبيقنا !!!";
+"logoLine3" = "'ΤΙ Δ' ΕΡΕΞΑ'";
+"logoLine4" = "كما يسأل فيثاغورس.";
+"sa1ve" = "";
+"segTit0" = "سجل";
+"segTit1" = "اليوم";
+"segTit2" = "أسبوع";
+"segTit3" = "شهر";
+"segTit4" = "سنة";
+"segTit5" = "عمل يدوي";
+//Deleted------
+"removeAds" = "///Upgrade, removing ads permanently with only  $";
+"adsFreeAlert" = "//Ads Free!!!";
+"noThanksAction" = "//No, thanks";
+"upgradeAction" = "//Yes, I want ads free.";
+//Deleted------
+
